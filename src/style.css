@@ -12,7 +12,14 @@ h1 {
 h2 {
   text-align: center;
   font-size: 50px;
+
   margin-top: -40px;
+}
+button {
+  border-radius: 30px;
+  border: 1px solid blue;
+  color: bisque;
+  background-color: blueviolet;
 }
 h2:hover {
   color: brown;
@@ -25,5 +32,25 @@ h2 span:hover {
 }
 
 ul {
+  text-align: center;
+  position: relative;
+  margin: 50px;
+  font-size: 50px;
+  margin-right: 15px;
+}
+
+ul li {
+  margin-top: -40px;
   list-style: none;
+  display: inline-block;
+  padding: 75px;
+  text-emphasis: 200px;
+  color: brown;
+}
+
+#me {
+  color: blueviolet;
+}
+#contact {
+  color: orangered;
 }
