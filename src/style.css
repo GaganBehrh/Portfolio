@@ -21,6 +21,11 @@ button {
   color: bisque;
   background-color: blueviolet;
 }
+
+img {
+  margin-top:-25px ;
+  border-radius: 30px;
+}
 h2:hover {
   color: brown;
 }
