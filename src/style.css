@@ -23,7 +23,7 @@ button {
 }
 
 img {
-  margin-top:-25px ;
+  margin-top: -25px;
   border-radius: 30px;
 }
 h2:hover {
@@ -52,10 +52,24 @@ ul li {
   text-emphasis: 200px;
   color: brown;
 }
-
+.container_aboutme h1 {
+  color: blueviolet;
+}
 #me {
   color: blueviolet;
 }
 #contact {
   color: orangered;
+}
+.outerrow {
+  margin-top: 100px;
+  margin-left: 100px;
+}
+#textsection {
+  margin-top: 60px;
+  margin-left: 20px;
+}
+#mypic {
+  margin-left: 60px;
+  margin-top: -60px;
 }
