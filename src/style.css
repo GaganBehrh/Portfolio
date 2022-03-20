@@ -73,3 +73,30 @@ ul li {
   margin-left: 60px;
   margin-top: -60px;
 }
+#contact-me_form-area {
+  margin-top: 50px;
+}
+
+#contactme-heading {
+  color: orangered;
+  text-emphasis: italic;
+}
+#contactme-submit {
+  display: block;
+  margin: auto;
+  padding: 20px;
+  margin-top: 60px;
+}
+#exampleFormControlInput1 {
+  width: 77%;
+  margin-left: 150px;
+}
+
+#textarea {
+  width: 77%;
+  margin-left: 150px;
+}
+#textinput {
+  margin-left: 150px;
+  color: blueviolet;
+}
