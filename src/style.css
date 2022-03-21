@@ -58,14 +58,20 @@ ul li {
 }
 #me {
   color: blueviolet;
+  margin-left: -150px;
 }
-#contact {
-  color: orangered;
-  margin-left: -80px;
+
+#projects {
+  margin-left: -50px;
 }
 #Certificate {
   color: blue;
 }
+#contact {
+  color: orangered;
+  margin-left: 20px;
+}
+
 .outerrow {
   margin-top: 100px;
   margin-left: 100px;
