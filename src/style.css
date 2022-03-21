@@ -61,6 +61,10 @@ ul li {
 }
 #contact {
   color: orangered;
+  margin-left: -80px;
+}
+#Certificate {
+  color: blue;
 }
 .outerrow {
   margin-top: 100px;
@@ -118,4 +122,42 @@ ul li {
   color: blueviolet;
   font-size: 30px;
   text-align: center;
+}
+
+.topline h3 {
+  font-size: 50px;
+  text-align: center;
+  color: blue;
+  margin-top: -80px;
+  margin-right: -60px;
+}
+.Certification-container h1 {
+  text-align: center;
+  color: blue;
+  font-size: 100px;
+  margin-top: 40px;
+}
+#Gitcerti {
+  margin-top: 100px;
+  color: black;
+  font-size: x-large;
+}
+#imgpsm {
+  margin-left: 500px;
+  margin-top: -20px;
+}
+#psmcerti {
+  margin-top: 0px;
+  color: black;
+  font-size: x-large;
+}
+#imgibm {
+  margin-left: 500px;
+  margin-top: 40px;
+  border-color: 1px solid blue;
+}
+#ibmcerti {
+  margin-top: 50px;
+  color: black;
+  font-size: x-large;
 }
