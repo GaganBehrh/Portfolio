@@ -23,8 +23,9 @@ button {
 }
 
 img {
-  margin-top: -25px;
+  margin-top: 25px;
   border-radius: 30px;
+  margin-left: 450px;
 }
 h2:hover {
   color: brown;
@@ -103,7 +104,7 @@ ul li {
 #Appheading {
   font-size: 50px;
   color: blue;
-  margin-left: 150px;
+  margin-left: 250px;
   text-emphasis: bold;
 }
 
@@ -111,5 +112,10 @@ ul li {
   padding: 20px;
   border-color: ipx solid black;
   margin-top: 20px;
-  margin-left: 140px;
+  margin-left: 680px;
+}
+#secondAppheading {
+  color: blueviolet;
+  font-size: 30px;
+  text-align: center;
 }
